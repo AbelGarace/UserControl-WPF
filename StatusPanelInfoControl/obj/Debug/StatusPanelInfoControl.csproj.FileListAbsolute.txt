@@ -1,0 +1,13 @@
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\bin\Debug\StatusPanelInfoControl.exe.config
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\bin\Debug\StatusPanelInfoControl.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\bin\Debug\StatusPanelInfoControl.pdb
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\View\StatusPanelControl.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\App.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl_MarkupCompile.cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl_MarkupCompile.lref
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\View\StatusPanelControl.baml
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl.g.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl.Properties.Resources.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl.csproj.GenerateResource.Cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoControl\obj\Debug\StatusPanelInfoControl.pdb

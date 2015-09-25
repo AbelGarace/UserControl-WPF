@@ -1,0 +1,13 @@
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\bin\Debug\StatusPanelInfoDependencyControl.exe.config
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\bin\Debug\StatusPanelInfoDependencyControl.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\bin\Debug\StatusPanelInfoDependencyControl.pdb
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\View\StatusPanelDependecyControl.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\App.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl_MarkupCompile.cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl_MarkupCompile.lref
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\View\StatusPanelDependecyControl.baml
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl.g.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl.Properties.Resources.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl.csproj.GenerateResource.Cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\UserControlExample\StatusPanelInfoDependencyControl\obj\Debug\StatusPanelInfoDependencyControl.pdb

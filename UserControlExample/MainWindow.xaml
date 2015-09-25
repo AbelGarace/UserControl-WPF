@@ -1,0 +1,21 @@
+﻿<Window x:Class="UserControlExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserControlExample"
+        xmlns:externo="clr-namespace:StatusPanelInfoControl.View;assembly=StatusPanelInfoControl"
+        xmlns:dependency="clr-namespace:StatusPanelInfoDependencyControl.View;assembly=StatusPanelInfoDependencyControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+
+    <Grid>
+
+        <externo:StatusPanelControl x:Name="statusPanelControl" Margin="5,5,0,0" HorizontalAlignment="Left" Width="auto" Height="auto" VerticalAlignment="Top"/>
+        <dependency:StatusPanelDependecyControl x:Name="statusPanelDependecyControl" Margin="0,5,5,0" Height="auto" VerticalAlignment="Top" HorizontalAlignment="Right" Width="auto"/>
+        <StackPanel VerticalAlignment="Bottom">
+            <Button  Click="Button_Click"  Margin="0,5,5,10"   VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="162" Content="Change Values"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="StatusPanelInfoDependencyControl.View.StatusPanelDependecyControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:StatusPanelInfoDependencyControl.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="200" d:DesignWidth="200">
+    <Grid>
+        <StackPanel Background="CadetBlue">
+            <StackPanel  Margin="0,5,0,0" Height="auto" VerticalAlignment="Top" Background="CadetBlue">
+                <Label HorizontalAlignment="Center" TextElement.Foreground="White" Content="{Binding Titulo}"></Label>
+            </StackPanel>
+            <Border Margin="5" Background="White" BorderBrush="LightGray" BorderThickness="1.5" CornerRadius="15">
+                <StackPanel Orientation="Vertical" Margin="5" VerticalAlignment="Center">
+                    <StackPanel Background="Beige" Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="AllMessages: "></TextBlock>
+                        <StackPanel HorizontalAlignment="Right">
+                            <TextBlock HorizontalAlignment="Center" Text="{Binding AllMessages}"/>
+                        </StackPanel>
+                        
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Today: "></TextBlock>
+                        <TextBlock Margin="0,0,2,0" Text="{Binding Today}"/>
+                    </StackPanel>
+                    <StackPanel Background="Beige" Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Last 7 Days: "></TextBlock>
+                        <TextBlock HorizontalAlignment="Right" Text="{Binding Last7Days}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Last 30 Days: "></TextBlock>
+                        <TextBlock HorizontalAlignment="Right" Text="{Binding Last30Days}"/>
+                    </StackPanel>
+                    <StackPanel Background="Beige" Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="Last 180 Days: "></TextBlock>
+                        <TextBlock HorizontalAlignment="Right" Text="{Binding Last180Days}"/>
+                    </StackPanel>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</UserControl>
